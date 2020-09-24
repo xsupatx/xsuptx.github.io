@@ -1,2 +1,2 @@
-# xsuptx.github.io
+# xsupatx.github.io
 bonus page
